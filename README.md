@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/arnabpaul98" target="blank"><img src="https://img.shields.io/twitter/follow/arnabpaul98?logo=twitter&style=for-the-badge" alt="arnabpaul98" /></a> </p>
 
-- 🔭 I’m currently working on **WebRTC**
+- 🔭 I’m currently working on [WebRTC](https://github.com/arnab1656/p2p-Video-Call)
+
+- 🌱 I’m currently learning **WebRTC**
+
+- 💬 Ask me about **Next.js ,React.js and Backend Stuff**
 
 - 📫 How to reach me **arnab.paul.1656@gmail.com**
+
+- ⚡ Fun fact **I think I Like The World**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
