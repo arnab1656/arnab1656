@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [WebRTC](https://github.com/arnab1656/p2p-Video-Call)
 
-- 🌱 I’m currently learning **WebRTC**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 💬 Ask me about **Next.js ,React.js and Backend Stuff**
 
