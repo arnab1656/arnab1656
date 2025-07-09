@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [Web Scraping]((https://scrapple-v1-0.vercel.app/))
+- 🔭 I’m currently working on [Web Scraping]([https://scrapple-v1-0.vercel.app/])
 
 - 🌱 I’m currently learning **Web Scraping**
 
