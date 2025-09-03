@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working on [Web Scraping]([https://scrapple-v1-0.vercel.app/])
+- 🔭 I’m currently working on [Gen AI]([(https://github.com/arnab1656/LangChain-By-Practice)])
 
-- 🌱 I’m currently learning **Web Scraping**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Next.js ,React.js and Backend Stuff**
+- 💬 Ask me about **Gen AI, Next.js ,React.js and Backend Stuff**
 
 - 📫 How to reach me **arnab.paul.1656@gmail.com**
 
