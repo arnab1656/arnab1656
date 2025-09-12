@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Paul</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Indie Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab1656&label=Profile%20views&color=0e75b6&style=flat" alt="arnab1656" /> </p>
 
