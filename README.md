@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [Gen AI]([(https://github.com/arnab1656/LangChain-By-Practice)])
+- 🔭 I’m currently working on [Generative AI]([(https://github.com/arnab1656/LangChain-By-Practice)])
 
 - 🌱 I’m currently learning **Generative AI**
 
