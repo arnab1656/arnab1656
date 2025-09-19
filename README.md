@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Gen AI, Next.js ,React.js and Backend Stuff**
+- 💬 Ask me about **Generative AI, Next.js ,React.js and Backend Stuff**
 
 - 📫 How to reach me **arnab.paul.1656@gmail.com**
 
